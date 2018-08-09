@@ -1,5 +1,5 @@
 <template>
-  <div>i am goods</div>
+  <div>i am ratings</div>
 </template>
 
 <script>
